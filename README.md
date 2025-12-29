@@ -5,9 +5,14 @@
   <br><br>
   <samp>
     I'm Pluton. I graduated from Gazi University, Department of Information Security. 
-Interested in Mobile Pentesting, Web App Pentesting and Bug Bounty. Addicted to HackTheBox & HackerOne.
-My another account: <a href"https://github.com/lib-pluton">lib-pluton</a>
-  </samp>
+Interested in Anticheat Development, Mobile & Web App Pentesting. Addicted to HackTheBox & HackerOne.
+My another account:
+    <a href="https://github.com/lib-pluton">
+  <img align="center" alt="lib-pluton GitHub" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/github.svg" />
+        <p align="center"> I cannot access that account anymore. </p>
+</a> 
+  </samp><a>
+
 </p>
 
 <p align="center">
@@ -24,7 +29,7 @@ My another account: <a href"https://github.com/lib-pluton">lib-pluton</a>
 <a href="https://www.linkedin.com/in/ssercanuyan/">
   <img align="left" alt="PlütonMoyai Linkedin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
-<a href="https://www.youtube.com/@PlütonMoyai">
+<a href="www.youtube.com/@Plutonr6">
   <img align="left" alt="PlütonMoyai YouTube" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/youtube.svg" />
 </a>
 <a href="https://discord.gg/F5BkwBSJXh">
